@@ -9,6 +9,7 @@ const CategoryMenu = () => {
       imageUrl:
         "https://i.etsystatic.com/33147827/r/il/736176/3672808872/il_794xN.3672808872_3xsp.jpg",
     },
+
     {
       id: 2,
       title: "Jackets",
